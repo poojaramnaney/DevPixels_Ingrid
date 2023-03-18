@@ -17,6 +17,8 @@ h2 {
 }
 
 .container-fluid {
+    background-color: #FFFAF6;
+
     padding: 0;
 }
 
@@ -28,14 +30,14 @@ h2 {
 }
 
 .aboutpara {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 
 }
 
 .aboutp {
     text-align: left;
     padding-left: 10px;
-    color: #ffffff;
+    color: #000000;
     
 }
 
@@ -121,14 +123,16 @@ nav li a {
 #title .container-fluid1 {
     /* padding: 2% 10%; */
     /* padding-bottom: 100px; */
-    background-color: #b3e3de;
+    background-color: #FFFAF6;
+   
     background-size: cover;
     text-align: left;
 }
 
 .about {
     padding-top: 30%;
-    color:rgb(50, 50, 53);
+    background-color: #FFFAF6;
+    
 }
 
 .img-wrapper img {
@@ -171,7 +175,7 @@ nav li a {
 }
 
 #features p {
-    color: #8f8f8f;
+    color: #000000;
     margin-top: 20px;
 }
 
@@ -690,5 +694,5 @@ text-align: center;
     color: #5ca6fa;
   }
 #aboutparagraph{
-    color: white;
+    color: rgb(0, 0, 0);
 }
