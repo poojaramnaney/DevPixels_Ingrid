@@ -21,7 +21,8 @@
 ## Benefits of Ingrid
 There are several benefits to this rental system. For one, it would be much more convenient for users, as they could browse and rent properties from the comfort of their own home. It would also save time and resources, as there would be no need for physical showrooms or stores. Additionally, the use of AR technology could help to reduce waste and clutter, as people would no longer need to buy and store physical properties they only use occasionally. Instead, they could simply rent them as needed. 
 Overall, a 3D rental system using AR has the potential to revolutionize the way we access properties, making the process more convenient and environmentally friendly.
-#Concept of Sustainabilty
+
+# Concept of Sustainabilty
 SDG 11: Sustainable Cities and Communities - Online house rental platforms can help to promote sustainable urban development by providing affordable and accessible housing options for individuals in urban areas. They can also contribute to the development of more efficient and sustainable transportation systems.
 
 
