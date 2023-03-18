@@ -43,11 +43,11 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.container {
+/* .container {
     position: left;
     margin: 1000cm;
     left: 10;
-    position: absolute;
+    position: relative;
     top: 0%;
     right: 20;
     bottom: 0;
@@ -132,7 +132,7 @@ body {
 }
 
 .counter {
-    position: absolute;
+    position: relative;
     bottom: -15px;
     right: 10px;
     z-index: 0;
@@ -140,13 +140,13 @@ body {
     color: black;
     transform: translateY(0);
     opacity: 0;
-}
+} */
 
 .container1 {
     position: left;
     margin: 1000cm;
     left: 10;
-    position: absolute;
+    position: relative;
     top: 0%;
     right: 0;
     bottom: 0;
@@ -159,4 +159,20 @@ body {
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05), 0 5px 10px rgba(0, 0, 0, 0.05);
     border-radius: 3px;
     overflow: hidden;
+}
+.location{
+   padding-left: 20px;
+   margin-right: -100px;
+   margin-left: 1cm;
+
+   justify-content: left;
+   text-align: left;
+   font-size: large;
+    
+   
+}
+.mapss{
+    
+    position: relative;
+
 }
