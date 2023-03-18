@@ -24,9 +24,10 @@ h2 {
 
 .aboutimg {
     height: 350px;
-    width: 480px;
+    width: 500px;
+    margin-left: 6cm;
     padding-top: 2.5cm;
-    padding-right: 40px;
+  
 }
 
 .aboutpara {
@@ -36,9 +37,13 @@ h2 {
 
 .aboutp {
     text-align: left;
-    padding-left: 10px;
+    padding-left: 2cm;
+   margin-right: -5cm;
     color: #000000;
     
+}
+.icons{
+    cursor: pointer;
 }
 
 
@@ -693,6 +698,7 @@ text-align: center;
   .abcd{
     color: #5ca6fa;
   }
-#aboutparagraph{
+.aboutparagraph{
     color: rgb(0, 0, 0);
+    
 }
