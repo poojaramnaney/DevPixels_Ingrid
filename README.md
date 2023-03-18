@@ -25,6 +25,10 @@ Overall, a 3D rental system using AR has the potential to revolutionize the way 
 # Concept of Sustainabilty
 SDG 11: Sustainable Cities and Communities - Online house rental platforms can help to promote sustainable urban development by providing affordable and accessible housing options for individuals in urban areas. They can also contribute to the development of more efficient and sustainable transportation systems.
 
+SDG 8: Decent Work and Economic Growth - Online house rental platforms can contribute to economic growth by creating job opportunities for individuals in the hospitality and service industries.
+
+SDG 9: Industry, Innovation, and Infrastructure - Online house rental platforms rely on innovative digital technologies to connect homeowners and landlords with potential renters. 
+
 
 ## Technology Used:
 * AR: The AR feature allows the user to walk in through the 3D models.
