@@ -48,5 +48,8 @@ https://youtu.be/O8vYwUwPDRQ
 ## PDFs
 Presentation Link: Click [here](https://www.canva.com/design/DAFWcepYfp4/djuvhLjHUa4EJkOVAUSYaQ/edit) to go to our presentation.
 
+##Kandi Kit Link Of our project 
+Click [here] (https://kandi.openweaver.com/collections/starterkits/ingrid%3A-devpixels)
 ## License
 This repository is licensed under the MIT license. See the [LICENSE](https://github.com/singhalshreya/Polaroid_Ingrid/blob/main/LICENSE) file for more information.
+
