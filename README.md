@@ -43,7 +43,7 @@ Click [here](https://devpixelsingrid.shimjim7.repl.co/) to go to our website.
 The website was deployed on versel.
 
 ## Video Demo
-https://youtu.be/O8vYwUwPDRQ
+https://youtu.be/lGVkc1uZsb8
 
 ## PDFs
 Presentation Link: Click [here](https://www.canva.com/design/DAFWcepYfp4/djuvhLjHUa4EJkOVAUSYaQ/edit) to go to our presentation.
