@@ -39,7 +39,7 @@ SDG 9: Industry, Innovation, and Infrastructure - Online house rental platforms 
 * JS: Responsiveness of the website.
 
 ## Deployment
-Click [here](https://polaroid-ingrid.vercel.app/) to go to our website.
+Click [here](https://devpixelsingrid.shimjim7.repl.co/) to go to our website.
 The website was deployed on versel.
 
 ## Video Demo
@@ -48,7 +48,8 @@ https://youtu.be/O8vYwUwPDRQ
 ## PDFs
 Presentation Link: Click [here](https://www.canva.com/design/DAFWcepYfp4/djuvhLjHUa4EJkOVAUSYaQ/edit) to go to our presentation.
 
-##Kandi Kit Link Of our project 
+## Kandi Kit Link Of our project 
+
 Click [here] (https://kandi.openweaver.com/collections/starterkits/ingrid%3A-devpixels)
 ## License
 This repository is licensed under the MIT license. See the [LICENSE](https://github.com/singhalshreya/Polaroid_Ingrid/blob/main/LICENSE) file for more information.
